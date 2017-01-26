@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
 <title>Santiago's Web Page</title>
 <meta name="generator" content="Bluefish 2.2.7" >
 <meta name="author" content="eclipse" >
-<meta name="date" content="2017-01-26T10:26:03-0600" >
+<meta name="date" content="2017-01-26T10:23:18-0600" >
 <meta name="copyright" content="myself">
 <meta name="keywords" content="santiagopaiz">
 <meta name="description" content="MyWebPage">
@@ -16,12 +15,7 @@
 <meta http-equiv="expires" content="0">
 </head>
   <body>
-    <header role = "banner">
-	<h1>Testing HTML5 </h1>
-	<p>Here should be the info</p>    
-    </header>
-    <footer>
-    Created by Santiago Paiz
-    </footer>
+    
+
   </body>
 </html>
