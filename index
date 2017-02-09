@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8">
+
 <title>Santiago's Web Page</title>
 <meta name="generator" content="Bluefish 2.2.7" >
 <meta name="author" content="eclipse" >
-<meta name="date" content="2017-01-26T10:26:03-0600" >
-<meta name="copyright" content="myself">
+<meta name="date" content="2017-01-26T15:38:58-0600" >
 <meta name="keywords" content="santiagopaiz">
 <meta name="description" content="MyWebPage">
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
@@ -18,10 +17,17 @@
   <body>
     <header role = "banner">
 	<h1>Testing HTML5 </h1>
-	<p>Here should be the info</p>    
+	<p>Here should be the info</p>  
+	<p>Here should be the info2</p>   
+	<div class = "example"data-subject="myself" data-level="simple"> I guess this divides?	</div>
     </header>
+    <aside> Somehting something else </aside>
     <footer>
     Created by Santiago Paiz
     </footer>
+    <form action = "/cgi-bin/html5.cgi" method = "get">
+	Date and Time : <input type = "datetime" name = "newinput" />
+	<input type = "submit" value = "submit" />
+	</form>
   </body>
 </html>
