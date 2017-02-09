@@ -6,7 +6,7 @@
 
 <meta name="generator" content="Bluefish 2.2.7" >
 <meta name="author" content="eclipse" >
-<meta name="date" content="2017-02-09T11:03:28-0600" >
+<meta name="date" content="2017-02-09T11:00:01-0600" >
 <meta name="keywords" content="santiagopaiz">
 <meta name="description" content="MyWebPage">
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
@@ -32,9 +32,9 @@
 		text-decoration: underline;	
 	}
 	#first-section {
-		color: blue;
-		background-color: pink;
-		width:100px;
+	color: blue;
+	background-color: pink;
+	width:100px;
 	}
  </style>
  
