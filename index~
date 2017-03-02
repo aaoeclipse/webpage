@@ -6,10 +6,9 @@
 
 <meta name="generator" content="Bluefish 2.2.7" >
 <meta name="author" content="eclipse" >
-<meta name="date" content="2017-02-09T11:00:01-0600" >
+<meta name="date" content="2017-03-02T10:57:39-0600" >
 <meta name="keywords" content="santiagopaiz">
 <meta name="description" content="MyWebPage">
-<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
 <meta http-equiv="content-style-type" content="text/css">
@@ -32,18 +31,19 @@
 		text-decoration: underline;	
 	}
 	#first-section {
-	color: blue;
-	background-color: pink;
-	width:100px;
+		color: blue;
+		background-color: pink;
+		width:200px;
 	}
  </style>
  
 </head>
   <body>
    <header role = "banner">
-	<h1 style="color:green;font-size:150%">Testing HTML5 </h1>
-
+	<h1 style="color:green;font-size:200%;text-align:center">Testing HTML5 </h1>
+	<div style="relative:left:80px;top:2px;">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/bl5TUw7sUBs" frameborder="0" allowfullscreen></iframe>
+	</div>
 	<div id="first-section">
 		<p>Here should be the info</p>  
 		<p>Here should be the info 2</p>
